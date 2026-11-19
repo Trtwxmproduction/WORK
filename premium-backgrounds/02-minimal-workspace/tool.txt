@@ -1,0 +1,1 @@
+Black Forest API - FLUX (via the Mistral image_generation tool), upscaled to 3840x2160 and exported at 300 DPI
