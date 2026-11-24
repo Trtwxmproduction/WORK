@@ -1,0 +1,33 @@
+[Script Info]
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 1080
+PlayResY: 1920
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Def,Montserrat,58,&H004AD5FF,&H704AD5FF,&HB4000000,&H99000000,1,0,0,0,100,100,0,0,1,1.4,1.8,2,70,70,250,1
+Style: Tit,Montserrat,72,&H00FFFFFF,&H40FFFFFF,&HC0000000,&H99000000,1,0,0,0,100,100,0,0,1,1.6,2.2,2,80,80,1290,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 1,0:00:00.55,0:00:03.40,Tit,,0,0,0,,{\fad(1000,1000)\blur0.6}A Massage Experience \NYou Have to {\c&H004AD5FF&\fnPlayfair Display\i1}Feel{\r}
+Dialogue: 1,0:00:04.60,0:00:17.40,Tit,,0,0,0,,{\fad(1000,1000)\blur0.6}Arrived {\c&H004AD5FF&\fnPlayfair Display\i1}Tired & Tense{\r}
+Dialogue: 1,0:00:19.40,0:00:29.40,Tit,,0,0,0,,{\fad(1000,1000)\blur0.6}Relaxed & {\c&H004AD5FF&\fnPlayfair Display\i1}Full of Energy{\r}
+Dialogue: 1,0:00:31.00,0:00:40.20,Tit,,0,0,0,,{\fad(1000,1000)\blur0.6}Experience It to {\c&H004AD5FF&\fnPlayfair Display\i1}Believe It{\r}
+Dialogue: 1,0:00:42.60,0:00:45.75,Tit,,0,0,0,,{\fad(1000,1000)\blur0.6}Renewed Wellness {\c&H004AD5FF&\fnPlayfair Display\i1}& Blessings{\r}
+Dialogue: 0,0:00:03.60,0:00:07.15,Def,,0,0,0,,{\fad(800,800)\move(540,1690,540,1680,0,400)\blur0.7}{\k105}Hello! {\k60}I'm {\k75}here {\k45}to {\k90}share
+Dialogue: 0,0:00:06.60,0:00:10.75,Def,,0,0,0,,{\fad(800,800)\move(540,1690,540,1680,0,400)\blur0.7}{\k40}my {\k147}experience {\k67}with {\k67}this\N{\k107}massage
+Dialogue: 0,0:00:10.20,0:00:13.95,Def,,0,0,0,,{\fad(800,800)\move(540,1690,540,1680,0,400)\blur0.7}{\k71}and {\k196}everything {\k36}I {\k89}felt
+Dialogue: 0,0:00:13.60,0:00:17.45,Def,,0,0,0,,{\fad(800,800)\move(540,1690,540,1680,0,400)\blur0.7}{\k44}I {\k176}arrived {\k66}so {\k132}tired
+Dialogue: 0,0:00:16.90,0:00:19.85,Def,,0,0,0,,{\fad(800,800)\move(540,1690,540,1680,0,400)\blur0.7}{\k45}so {\k105}tense, {\k45}so {\k105}heavy…
+Dialogue: 0,0:00:19.30,0:00:22.25,Def,,0,0,0,,{\fad(800,800)\move(540,1690,540,1680,0,400)\blur0.7}{\k24}I {\k84}didn't {\k60}know {\k60}what {\k24}I {\k60}felt
+Dialogue: 0,0:00:21.90,0:00:25.85,Def,,0,0,0,,{\fad(800,800)\move(540,1690,540,1680,0,400)\blur0.7}{\k72}and {\k107}after {\k89}this {\k143}massage
+Dialogue: 0,0:00:25.30,0:00:29.85,Def,,0,0,0,,{\fad(800,800)\move(540,1690,540,1680,0,400)\blur0.7}{\k30}I {\k74}feel {\k119}renewed {\k30}— {\k89}can't\N{\k119}explain {\k44}it
+Dialogue: 0,0:00:29.60,0:00:33.75,Def,,0,0,0,,{\fad(800,800)\move(540,1690,540,1680,0,400)\blur0.7}{\k72}This {\k43}is {\k144}something\N{\k158}incredible
+Dialogue: 0,0:00:33.20,0:00:36.35,Def,,0,0,0,,{\fad(800,800)\move(540,1690,540,1680,0,400)\blur0.7}{\k52}my {\k87}body {\k52}is {\k139}relaxed
+Dialogue: 0,0:00:35.80,0:00:38.95,Def,,0,0,0,,{\fad(800,800)\move(540,1690,540,1680,0,400)\blur0.7}{\k108}full {\k65}of {\k152}energy
+Dialogue: 0,0:00:38.60,0:00:41.85,Def,,0,0,0,,{\fad(800,800)\move(540,1690,540,1680,0,400)\blur0.7}{\k85}never {\k128}hesitate {\k43}to {\k71}have
+Dialogue: 0,0:00:41.30,0:00:44.95,Def,,0,0,0,,{\fad(800,800)\move(540,1690,540,1680,0,400)\blur0.7}{\k77}your {\k124}massage {\k77}with {\k93}Pindo
+Dialogue: 0,0:00:44.40,0:00:46.12,Def,,0,0,0,,{\fad(800,800)\move(540,1690,540,1680,0,400)\blur0.7}{\k29}live {\k17}it {\k17}to {\k46}believe {\k17}it {\k11}—\N{\k63}blessings!
