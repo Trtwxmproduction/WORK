@@ -1,0 +1,28 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Tit,Playfair Display,96,&H86C6E6&,&H64FFFFFF&,&H96140F08&,&H64000000&,0,1,0,0,100,100,6,0,1,0.6,1.6,5,60,60,0,1
+Style: Low,Montserrat SemiBold,48,&HDAEBF5&,&H64FFFFFF&,&H96140F08&,&H64000000&,0,0,0,0,100,100,2,0,1,0.8,1.4,2,70,70,0,1
+Style: Mid,Playfair Display,84,&H86C6E6&,&H64FFFFFF&,&H96140F08&,&H64000000&,0,1,0,0,100,100,5,0,1,0.6,1.6,5,60,60,0,1
+Style: Tag,Playfair Display,64,&H86C6E6&,&H64FFFFFF&,&H96140F08&,&H64000000&,0,1,0,0,100,100,4,0,1,0.6,1.6,5,60,60,0,1
+Style: TagS,Montserrat,30,&HDAEBF5&,&H64FFFFFF&,&H96140F08&,&H64000000&,0,0,0,0,100,100,3,0,1,0.6,1.2,2,70,70,0,1
+Style: Line,Montserrat,40,&H86C6E6&,&H64FFFFFF&,&H96140F08&,&H64000000&,0,0,0,0,100,100,0,0,1,0,0,2,0,0,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Text
+Dialogue: 2,0:00:00.45,0:00:03.85,Tit,,0,0,0,,{\an5\move(540,1010,540,980,0,700)\fsp2\t(0,900,\fsp7)\fad(900,700)\blur0.8\t(0,700,\blur0.2)}SUNLIT THREADS
+Dialogue: 2,0:00:00.85,0:00:03.85,Line,,0,0,0,,{\an5\move(540,1062,540,1052,0,700)\fscx0\t(0,900,\fscx74)\fad(600,700)}{\p1}m 0 0 l 190 0 l 190 3 l 0 3{\p0}
+Dialogue: 2,0:00:04.55,0:00:06.75,Low,,0,0,0,,{\an5\move(540,1538,540,1500,0,800)\fad(850,650)\blur0.6\t(0,800,\blur0.2)}HANDCRAFTED RESORT EDIT
+Dialogue: 2,0:00:04.55,0:00:06.75,Line,,0,0,0,,{\an5\move(540,1568,540,1560,0,800)\fscx0\t(0,900,\fscx36)\fad(850,650)}{\p1}m 0 0 l 190 0 l 190 3 l 0 3{\p0}
+Dialogue: 2,0:00:07.15,0:00:09.45,Low,,0,0,0,,{\an5\move(540,1538,540,1500,0,800)\fsp1\t(0,800,\fsp3)\fad(850,650)\blur0.6\t(0,800,\blur0.2)}{\fs44}ARTISANAL {\rTit\fs44}CROCHET{\rLow\fs44} & {\rTit\fs44}SILK{\rLow\fs44}
+Dialogue: 2,0:00:07.15,0:00:09.45,Line,,0,0,0,,{\an5\move(540,1568,540,1560,0,800)\fscx0\t(0,900,\fscx36)\fad(850,650)}{\p1}m 0 0 l 190 0 l 190 3 l 0 3{\p0}
+Dialogue: 2,0:00:10.75,0:00:13.35,Mid,,0,0,0,,{\an5\move(540,1430,540,1394,0,700)\fsp4\t(0,1000,\fsp11)\fad(850,650)\blur1.0\t(0,700,\blur0.2)}GOLDEN HOUR TEXTURES
+Dialogue: 2,0:00:13.55,0:00:15.75,Mid,,0,0,0,,{\an5\move(540,1430,540,1394,0,700)\fsp4\t(0,1000,\fsp11)\fad(850,650)\blur1.0\t(0,700,\blur0.2)}{\rMid\fs84}WOVEN {\rLow\fs44}IN{\rMid\fs84} WARM LIGHT
+Dialogue: 2,0:00:16.10,0:00:17.92,Tag,,0,0,0,,{\an5\move(540,1224,540,1200,0,800)\fsp3\t(0,1000,\fsp8)\fad(800,900)\blur0.8\t(0,700,\blur0.2)}SUMMER CAPSULE COLLECTION
+Dialogue: 2,0:00:16.35,0:00:17.92,TagS,,0,0,0,,{\an5\fad(800,900)\move(540,1298,540,1288,0,800)}crafted by hand, worn in the sun
